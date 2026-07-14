@@ -13,11 +13,11 @@
 
 
 2-Adresses utilisées
-<p align="center">
+```Bash
 Adresse réseau: 192.168.100.0/24
 VM-1: 192.168.100.1/24
 VM-2: 192.168.100.2/24
-</p>
+```
 
 3-Commande utilisées
 **Pour la configuration réseau**
