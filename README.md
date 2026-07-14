@@ -1,11 +1,5 @@
 # Doccumentation de mon architecture reseau
 1- schéma reseau
-
-
-
-
-
-
 ![Screenshot](images/Screenshot 2026-07-14 103857.png)
 
 
