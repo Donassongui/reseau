@@ -1,6 +1,6 @@
 # Doccumentation de mon architecture reseau
 1- schéma reseau
-![Screenshot](images/Screenshot 2026-07-14 103857.png)
+
 
 
 <img width="613" height="258" alt="image" src="https://github.com/user-attachments/assets/9a0fbd86-4005-4e88-a1e8-2a582aaf2924" />
