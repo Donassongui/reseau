@@ -1,5 +1,7 @@
 # Doccumentation de mon architecture reseau
 1- schéma reseau
+![Screenshot](images/screenshot.png)
+<img width="575" height="254" alt="image" src="https://github.com/user-attachments/assets/06b2af57-e363-44f2-a80b-2bd3f4654a8e" />
 
 
 
