@@ -20,6 +20,7 @@ VM-2: 192.168.100.2/24
 ```
 
 3-Commande utilisées
+```Bash
 **Pour la configuration réseau**
 *VM-1:* 
 sudo ip addr add 192.168.100.1/24 dev eth0
@@ -40,3 +41,4 @@ trace route 192.168.100.2
 ping 192.168.100.1
 *Avec trace route
 traceroute 192.168.100.1
+```
